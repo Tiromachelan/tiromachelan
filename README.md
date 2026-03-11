@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This repository contains stuff I've done for school, as well as a few personal projects.
+
+Currently, I am interested in creating and using agents to automate tasks.
+
 <!--
 **Tiromachelan/tiromachelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
